@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **stuff about microservices using NodeJS**
 
-- ⚡ Fun fact **I started working for a company, as a software developer, when I was 16 years old**
+- ⚡ Fun fact #1 **I wrote my first line of code on the 29th of March 2016, back then I was 15 years old**
+
+- ⚡ Fun fact #2 **I started working for an international company, as a remote software developer, when I was 16 years old**
 <br>
 <h2 align="center">Tech Stack</h3>
 <h4 align="center">Coming soon..</h4>

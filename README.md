@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michiel</h1>
 <h3 align="center">A passionate web application developer from Belgium</h3>
 
-- 🔭 I’m currently working on **e-course, an easy to use learning platform for companies**
+- 🔭 I’m currently working on **Stadro, an easy to use learning platform for companies**
 
-- 🌱 I’m currently learning **stuff about microservices using NodeJS**
+- 🌱 I’m currently learning more about **NestJS & TailwindCSS**
 
 - ⚡ Fun fact #1 **I wrote my first line of code on the 29th of March 2016, back then I was 15 years old**
 

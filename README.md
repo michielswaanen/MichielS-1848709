@@ -23,7 +23,7 @@
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node-dot-js&logoColor=white" />
     <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2d3748?style=flat-square&logo=prisma&logoColor=white" />
-    <img alt="NextJS" src="https://img.shields.io/badge/-NextJs-000000?style=flat-square&logo=vercel&logoColor=white" />
+    <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=vercel&logoColor=white" />
     <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
   </p>
 </h4>

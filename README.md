@@ -26,6 +26,7 @@
     <img alt="JetBrains" src="https://img.shields.io/badge/-JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white" />
   </p>
 </h4>
+<br />
 <h2 align="center">GitHub Statistics</h3>
 <h4 align="center">
 <p>

@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact #2 **I started working for an international company, as a remote software developer, when I was 16 years old**
 <br>
-<h2 align="center">My Favorite Tech Stack</h3>
+<h2 align="center">Favorite Tech Stack</h3>
 <h4 align="center">
   <p align="center">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />

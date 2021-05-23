@@ -19,6 +19,7 @@
     <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
 <!--     <img alt="CSS" src="https://img.shields.io/badge/-CSS-0069FF?style=for-the-badge&logo=css3&logoColor=white" /> -->
     <img alt="PostgreSQL" = src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img alt="StackOverflow" src="https://img.shields.io/badge/-StackOverflow_%F0%9F%98%89-f48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <!--     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> -->
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
